@@ -50,7 +50,7 @@ duration: 10min
 
 ---
 
-# <span class="font-semibold" view-transition-name="fu-mangalore">FOSS United Mangalore</span>
+# <span class="font-semibold" view-transition-name="fu-mangalore">FOSS United <span view-transition-name="mangalore">Mangalore</span></span>
 
 <div class="text-left text-gray-300 my-8">
   We at FOSS United Mangalore are a community of FOSS enthusiasts, our aim is to promote and strengthen the FOSS ecosystem in Mangalore, and solve societal problems using FOSS.
@@ -63,7 +63,7 @@ duration: 10min
 
 ---
 
-# <span class="font-semibold">FOSS Activities in Mangalore</span>
+# <span class="font-semibold"><span view-transition-name="foss">FOSS</span> Activities in <span view-transition-name="mangalore">Mangalore</span></span>
 
 <div class="flex justify-center">
   <img src="/assets/meetups.png" alt="Our Meetups" class="h-80 my-8 shadow-md object-cover" />
@@ -71,7 +71,7 @@ duration: 10min
 
 ---
 
-# <span class="font-semibold">MangaloreFOSS</span>
+# <span class="font-semibold"><span view-transition-name="mangalore">Mangalore</span><span view-transition-name="foss">FOSS</span></span>
 
 <div class="grid grid-cols-1 md:grid-cols-2 gap-8 items-center my-8">
   <div>
