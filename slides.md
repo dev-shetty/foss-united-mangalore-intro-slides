@@ -112,6 +112,26 @@ layout: center
 
 ---
 
+# <span class="font-semibold">Promoting FOSS in colleges</span>
+
+<div class="flex justify-center gap-4">
+  <img src="/assets/yenepoya.jpg" alt="FOSS Session at Yenepoya Institute of Technology" class="h-80 my-8 rounded-xl shadow-md object-cover" />
+  <img src="/assets/yenepoya-2.jpg" alt="FOSS Session at Yenepoya Institute of Technology" class="h-80 my-8 rounded-xl shadow-md object-cover" />
+
+</div>
+
+---
+
+# <span class="font-semibold">What's upcoming?</span>
+
+<div class="grid place-items-center">
+  <img src="/assets/fosshack.png" alt="FOSSHack" class="h-40 my-8 rounded-xl shadow-md object-cover" />
+  <img src="/assets/gsoc.png" alt="GSoC 2026" class="h-20 rounded-xl shadow-md object-cover" />
+
+</div>
+
+---
+
 # <span class="font-semibold">Join our Telegram Community</span>
 
 <div class="flex justify-center">
