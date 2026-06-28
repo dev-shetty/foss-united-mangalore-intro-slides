@@ -1,6 +1,6 @@
 <template>
   <footer
-    v-if="$nav.currentLayout !== 'cover' && $nav.currentLayout !== 'center'"
+    v-if="$nav.currentLayout !== 'cover'"
     class="abs-br text-gray-200 m-8"
   >
     <div class="gap-4 flex justify-end items-center">

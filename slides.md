@@ -25,6 +25,8 @@ duration: 10min
 
 # <span class="font-semibold"><span view-transition-name="fu">FOSS United</span> Mangalore</span>
 
+## <span class="text-gray-300">12th FOSS Activity, The Web People - Puttur</span>
+
 <div class="abs-tl m-8 gap-4 flex justify-end items-center">
   <img src="/assets/fu-mangalore.png" alt="FOSS United Mangalore Logo" class="h-12" />
 </div>
@@ -34,19 +36,29 @@ duration: 10min
 </div>
 
 ---
+layout: center
+---
+
+# <span class="text-5xl font-semibold text-center block">First FOSS event in Puttur</span>
+
+---
 
 # <span class="font-semibold" view-transition-name="fu">FOSS United</span>
+
+<img src="/assets/foss-united.png" alt="FOSS United" class="abs-tr m-8 h-16" style="filter: invert(1)" />
 
 <div class="text-left text-gray-300 my-8">
   FOSS United is a non-profit foundation dedicated to promoting and strengthening the Free and Open Source Software (FOSS) ecosystem in India.
 </div>
 
 **Key Initiatives:**
+
 - FOSS Fellowship
 - 26 City Chapters & 50+ FOSS Clubs
 - Events & Job Portal
 - Open Source Workshops & Hackathons
 - **IndiaFOSS Conference:** 2500+ Attendees
+
 
 ---
 
@@ -107,8 +119,7 @@ duration: 10min
 layout: center
 ---
 
-  <img src="/assets/mangalorefoss/drone2.JPG" alt="Drone Shot of FOSS Human Chain" class="h-120 my-8 rounded-xl shadow-md object-cover" />
-
+  <img src="/assets/mangalorefoss/drone2.JPG" alt="Drone Shot of FOSS Human Chain" class="h-150 my-8 rounded-xl shadow-md object-cover" />
 
 ---
 
@@ -121,13 +132,13 @@ layout: center
 </div>
 
 ---
+layout: center
+---
 
-# <span class="font-semibold">What's upcoming?</span>
+# <span class="font-semibold">MangaloreFOSS 2.0 --- 16-17 January 2027</span>
 
-<div class="grid place-items-center">
-  <img src="/assets/fosshack.png" alt="FOSSHack" class="h-40 my-8 rounded-xl shadow-md object-cover" />
-  <img src="/assets/gsoc.png" alt="GSoC 2026" class="h-20 rounded-xl shadow-md object-cover" />
-
+<div class="flex justify-center">
+  <img src="/assets/mangalorefoss2.png" alt="Announcing MangaloreFOSS 2.0 - 16-17 January 2027" class="h-100 my-4 rounded-xl shadow-md object-contain" />
 </div>
 
 ---
