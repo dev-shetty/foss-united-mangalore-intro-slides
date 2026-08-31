@@ -25,7 +25,7 @@ duration: 10min
 
 # <span class="font-semibold"><span view-transition-name="fu">FOSS United</span> Mangalore</span>
 
-## <span class="text-gray-300">12th FOSS Activity, The Web People - Puttur</span>
+## <span class="text-gray-300">13th FOSS Activity - CCC, NITK</span>
 
 <div class="abs-tl m-8 gap-4 flex justify-end items-center">
   <img src="/assets/fu-mangalore.png" alt="FOSS United Mangalore Logo" class="h-12" />
@@ -34,12 +34,6 @@ duration: 10min
 <div class="abs-tr m-8 gap-4 flex justify-end items-center">
   <img src="/assets/tiger.png" alt="Tiger Mascot" class="h-16" />
 </div>
-
----
-layout: center
----
-
-# <span class="text-5xl font-semibold text-center block">First FOSS event in Puttur</span>
 
 ---
 
@@ -73,6 +67,7 @@ layout: center
 - We cycle between Mangalore and Udupi
 - Host MangaloreFOSS, our annual flagship conference
 
+
 ---
 
 # <span class="font-semibold"><span view-transition-name="foss">FOSS</span> Activities in <span view-transition-name="mangalore">Mangalore</span></span>
@@ -80,6 +75,42 @@ layout: center
 <div class="flex justify-center">
   <img src="/assets/meetups.png" alt="Our Meetups" class="h-80 my-8 shadow-md object-cover" />
 </div>
+
+---
+
+# <span class="font-semibold">Promoting FOSS in colleges</span>
+
+<div class="flex justify-center gap-4">
+  <img src="/assets/yenepoya.jpg" alt="FOSS Session at Yenepoya Institute of Technology" class="h-80 my-8 rounded-xl shadow-md object-cover" />
+  <img src="/assets/yenepoya-2.jpg" alt="FOSS Session at Yenepoya Institute of Technology" class="h-80 my-8 rounded-xl shadow-md object-cover" />
+
+</div>
+
+---
+
+# <span class="font-semibold">FOSS Hack 2026 - Winners from our region</span>
+
+<div class="grid grid-cols-3 gap-4 my-8">
+  <div class="rounded-xl border border-gray-700 p-5 flex flex-col">
+    <div class="text-lg font-semibold">LibreMP</div>
+    <div class="text-gray-400 text-sm mb-3">Muaz Ismail Mohammed, Jiya Hussain, Iffah Zohara, Mohamed Dhul Kifl</div>
+    <div class="text-gray-300">Cross-platform wireless casting to EPSON projectors, built by reverse-engineering the EasyMP protocol.</div>
+    <div class="mt-auto pt-4 font-semibold">🏆 ₹1,00,000</div>
+  </div>
+  <div class="rounded-xl border border-gray-700 p-5 flex flex-col">
+    <div class="text-lg font-semibold">Accessibility & UI fixes</div>
+    <div class="text-gray-400 text-sm mb-3">Khatija Kaneez, Zaynah Anjum, Jenisha Dsouza</div>
+    <div class="text-gray-300">Made a Vue.js app screen-reader friendly and cleaned up its dark mode and layout inconsistencies.</div>
+    <div class="mt-auto pt-4 font-semibold">🏆 ₹10,000</div>
+  </div>
+  <div class="rounded-xl border border-gray-700 p-5 flex flex-col">
+    <div class="text-lg font-semibold">Big-integer JSON fix</div>
+    <div class="text-gray-400 text-sm mb-3">Vivek Neeralagi</div>
+    <div class="text-gray-300">Fixed large JSON integers being silently rounded off before reaching the server, in both the app and the CLI.</div>
+    <div class="mt-auto pt-4 font-semibold">🏅 Commendation</div>
+  </div>
+</div>
+
 
 ---
 
@@ -92,6 +123,7 @@ layout: center
     </div>
     <ul class="list-disc pl-6 text-base space-y-2">
       <li>Biggest FOSS Conference in Mangalore</li>
+      <li>Largest CityFOSS Conference in India</li>
       <li>600+ attendees</li>
       <li>25+ Speakers</li>
       <li>15+ Talks and 4 Workshops</li>
@@ -121,25 +153,31 @@ layout: center
 
   <img src="/assets/mangalorefoss/drone2.JPG" alt="Drone Shot of FOSS Human Chain" class="h-150 my-8 rounded-xl shadow-md object-cover" />
 
+
+---
+layout: center
+
+class: text-center
 ---
 
-# <span class="font-semibold">Promoting FOSS in colleges</span>
+# <span class="font-semibold">MangaloreFOSS 2.0</span>
 
-<div class="flex justify-center gap-4">
-  <img src="/assets/yenepoya.jpg" alt="FOSS Session at Yenepoya Institute of Technology" class="h-80 my-8 rounded-xl shadow-md object-cover" />
-  <img src="/assets/yenepoya-2.jpg" alt="FOSS Session at Yenepoya Institute of Technology" class="h-80 my-8 rounded-xl shadow-md object-cover" />
+### <span class="text-gray-300">16-17 January 2027 at NITK</span>
 
+<div class="flex justify-center">
+  <img src="/assets/mangalorefoss2.png" alt="Announcing MangaloreFOSS 2.0 - 16-17 January 2027" class="h-88 my-4 rounded-xl shadow-md object-contain" />
 </div>
 
 ---
 layout: center
 ---
 
-# <span class="font-semibold">MangaloreFOSS 2.0 --- 16-17 January 2027</span>
+# <span class="font-semibold text-5xl">We are Looking for Volunteers</span>
 
-<div class="flex justify-center">
-  <img src="/assets/mangalorefoss2.png" alt="Announcing MangaloreFOSS 2.0 - 16-17 January 2027" class="h-100 my-4 rounded-xl shadow-md object-contain" />
-</div>
+<h2 class="font-semibold text-2xl">and sponsors 👀</h2>
+
+
+
 
 ---
 
