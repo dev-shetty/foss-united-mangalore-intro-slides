@@ -25,8 +25,6 @@ duration: 10min
 
 # <span class="font-semibold"><span view-transition-name="fu">FOSS United</span> Mangalore</span>
 
-## <span class="text-gray-300">13th FOSS Activity - CCC, NITK</span>
-
 <div class="abs-tl m-8 gap-4 flex justify-end items-center">
   <img src="/assets/fu-mangalore.png" alt="FOSS United Mangalore Logo" class="h-12" />
 </div>
@@ -160,23 +158,9 @@ layout: center
 class: text-center
 ---
 
-# <span class="font-semibold">MangaloreFOSS 2.0</span>
-
-### <span class="text-gray-300">16-17 January 2027 at NITK</span>
-
 <div class="flex justify-center">
-  <img src="/assets/mangalorefoss2.png" alt="Announcing MangaloreFOSS 2.0 - 16-17 January 2027" class="h-88 my-4 rounded-xl shadow-md object-contain" />
+  <img src="/assets/mangalorefoss.png" alt="Announcing MangaloreFOSS 2.0 - 16-17 January 2027" class="h-88 my-4 rounded-xl shadow-md object-contain" />
 </div>
-
----
-layout: center
----
-
-# <span class="font-semibold text-5xl">We are Looking for Volunteers</span>
-
-<h2 class="font-semibold text-2xl">and sponsors 👀</h2>
-
-
 
 
 ---
