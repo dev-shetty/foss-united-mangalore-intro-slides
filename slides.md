@@ -10,6 +10,17 @@ info: |
   Presentation slides for FOSS United Mangalore.
 
   Learn more at [FOSS United Mangalore](https://fossunited.org/c/mangalore)
+author: Deveesh Shetty
+keywords: foss,open source,fossunited,mangalore,mangalorefoss,foss hack,community
+seoMeta:
+  ogTitle: FOSS United Mangalore
+  ogDescription: What the Mangalore chapter does — meetups, college outreach, FOSS Hack, and MangaloreFOSS.
+  ogImage: https://slides.shetty.me/foss-mangalore-intro/og-image.png
+  ogUrl: https://slides.shetty.me/foss-mangalore-intro/
+  twitterCard: summary_large_image
+  twitterTitle: FOSS United Mangalore
+  twitterDescription: What the Mangalore chapter does — meetups, college outreach, FOSS Hack, and MangaloreFOSS.
+  twitterImage: https://slides.shetty.me/foss-mangalore-intro/og-image.png
 # apply UnoCSS classes to the current slide
 class: text-center
 # https://sli.dev/features/drawing
@@ -153,13 +164,15 @@ layout: center
 
 
 ---
-layout: center
 
-class: text-center
----
+# <span class="font-semibold">MangaloreFOSS 2.0</span>
 
-<div class="flex justify-center">
-  <img src="/assets/mangalorefoss.png" alt="Announcing MangaloreFOSS 2.0 - 16-17 January 2027" class="h-88 my-4 rounded-xl shadow-md object-contain" />
+<div class="grid grid-cols-[3fr_1fr] gap-8 items-center mt-10">
+  <img src="/assets/mangalorefoss-2.png" alt="MangaloreFOSS 2.0, 16-17 January 2027, NITK Surathkal" class="w-full rounded-xl" />
+  <div class="flex flex-col items-center gap-3">
+    <img src="/assets/mangalorefoss-rsvp-qr-tiger.png" alt="RSVP QR code for MangaloreFOSS 2.0" class="w-full rounded-xl" />
+    <div class="text-base text-gray-400">RSVP here</div>
+  </div>
 </div>
 
 
