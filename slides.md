@@ -1,47 +1,69 @@
 ---
-# try also 'default' to start simple
 theme: default
-# random image from a curated Unsplash collection by Anthony
-# like them? see https://unsplash.com/collections/94734566/slidev
-# some information about your slides (markdown enabled)
 title: FOSS United Mangalore
 info: |
   ## FOSS United Mangalore
-  Presentation slides for FOSS United Mangalore.
 
-  Learn more at [FOSS United Mangalore](https://fossunited.org/c/mangalore)
+  The Mangalore chapter of FOSS United — who we are, what we run, and how to
+  join. Meetups every two months, hosted in industry offices across Udupi and
+  Mangalore, plus MangaloreFOSS, our annual conference.
+
+  [fossunited.org/c/mangalore](https://fossunited.org/c/mangalore)
 author: Deveesh Shetty
-keywords: foss,open source,fossunited,mangalore,mangalorefoss,foss hack,community
+keywords: foss united,fossunited mangalore,mangalorefoss,foss hack,open source,community,meetup,mangalore,udupi,karnataka,india,nitk surathkal
 seoMeta:
   ogTitle: FOSS United Mangalore
-  ogDescription: What the Mangalore chapter does — meetups, college outreach, FOSS Hack, and MangaloreFOSS.
+  ogDescription: A free and open source software community in coastal Karnataka. Meetups every two months, and MangaloreFOSS each January.
   ogImage: https://slides.shetty.me/foss-mangalore-intro/og-image.png
   ogUrl: https://slides.shetty.me/foss-mangalore-intro/
   twitterCard: summary_large_image
+  twitterSite: "@ShettyDeveesh"
   twitterTitle: FOSS United Mangalore
-  twitterDescription: What the Mangalore chapter does — meetups, college outreach, FOSS Hack, and MangaloreFOSS.
+  twitterDescription: A free and open source software community in coastal Karnataka. Meetups every two months, and MangaloreFOSS each January.
   twitterImage: https://slides.shetty.me/foss-mangalore-intro/og-image.png
-# apply UnoCSS classes to the current slide
-class: text-center
-# https://sli.dev/features/drawing
+class: text-center bg-[#0d0d0e] text-gray-200
 drawings:
   persist: false
-# slide transition: https://sli.dev/guide/animations.html#slide-transitions
 transition: view-transition
-# enable MDC Syntax: https://sli.dev/features/mdc
 mdc: true
-# duration of the presentation
 duration: 10min
 ---
 
-# <span class="font-semibold"><span view-transition-name="fu">FOSS United</span> Mangalore</span>
-
-<div class="abs-tl m-8 gap-4 flex justify-end items-center">
-  <img src="/assets/fu-mangalore.png" alt="FOSS United Mangalore Logo" class="h-12" />
+<div class="h-full flex flex-col justify-start pt-20 text-left">
+  <div class="font-mono text-base text-gray-400"><span class="text-green-400">$</span> systemctl status mangalore</div>
+<pre class="font-mono text-[0.62rem] leading-[1.0] m-0 mt-4 mb-6 text-gray-100">███████╗ ██████╗ ███████╗███████╗  ██╗   ██╗███╗   ██╗██╗████████╗███████╗██████╗ 
+██╔════╝██╔═══██╗██╔════╝██╔════╝  ██║   ██║████╗  ██║██║╚══██╔══╝██╔════╝██╔══██╗
+█████╗  ██║   ██║███████╗███████╗  ██║   ██║██╔██╗ ██║██║   ██║   █████╗  ██║  ██║
+██╔══╝  ██║   ██║╚════██║╚════██║  ██║   ██║██║╚██╗██║██║   ██║   ██╔══╝  ██║  ██║
+██║     ╚██████╔╝███████║███████║  ╚██████╔╝██║ ╚████║██║   ██║   ███████╗██████╔╝
+╚═╝      ╚═════╝ ╚══════╝╚══════╝   ╚═════╝ ╚═╝  ╚═══╝╚═╝   ╚═╝   ╚══════╝╚═════╝ 
+ 
+███╗   ███╗ █████╗ ███╗   ██╗ ██████╗  █████╗ ██╗      ██████╗ ██████╗ ███████╗
+████╗ ████║██╔══██╗████╗  ██║██╔════╝ ██╔══██╗██║     ██╔═══██╗██╔══██╗██╔════╝
+██╔████╔██║███████║██╔██╗ ██║██║  ███╗███████║██║     ██║   ██║██████╔╝█████╗  
+██║╚██╔╝██║██╔══██║██║╚██╗██║██║   ██║██╔══██║██║     ██║   ██║██╔══██╗██╔══╝  
+██║ ╚═╝ ██║██║  ██║██║ ╚████║╚██████╔╝██║  ██║███████╗╚██████╔╝██║  ██║███████╗
+╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝</pre>
+  <div class="font-mono text-[0.88rem] leading-[1.95] text-gray-300">
+    <div><span class="text-green-400">●</span> mangalore.service <span class="text-gray-500">— community meetup</span></div>
+    <div class="grid grid-cols-[6rem_1fr]">
+      <span class="text-amber-300">Active:</span><span><span class="text-green-400">active (running)</span> since Mar 2024 — every two months</span>
+      <span class="text-amber-300">Trigger:</span><span>16–17 Jan 2027 — <span class="text-gray-100">MangaloreFOSS 2.0</span>, NITK Surathkal</span>
+    </div>
+    <div class="text-gray-500 mt-3">
+      <div>Oct 25&nbsp; mangalore[1]: October FOSS Activity — wrkwrk, Udupi</div>
+      <div>Aug 30&nbsp; mangalore[1]: August FOSS Activity — CCC, NITK Surathkal</div>
+      <div>Jun 28&nbsp; mangalore[1]: June FOSS Activity — The Web People, Puttur</div>
+    </div>
+  </div>
 </div>
 
-<div class="abs-tr m-8 gap-4 flex justify-end items-center">
-  <img src="/assets/tiger.png" alt="Tiger Mascot" class="h-16" />
+<div class="abs-tl ml-14 mt-14 flex items-center">
+  <img src="/assets/fu-mangalore.png" alt="FOSS United Mangalore Logo" class="h-10" />
+</div>
+
+<div class="abs-tr mr-14 mt-14 flex items-center">
+  <img src="/assets/tiger.png" alt="Tiger Mascot" class="h-14" />
 </div>
 
 ---
